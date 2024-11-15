@@ -4,6 +4,6 @@
 "frequency" : 2,
 "freqParam" : "day",
 "feedback" : 1,
-"feedbackMessage" : "Happy coding ...you will fix that bug",
+"feedbackMessage" : "Happy coding you will fix that bug",
 "timeInSec" : 10000,
 }
