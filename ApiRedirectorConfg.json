@@ -1,6 +1,9 @@
 { 
-"version" : 1.1,
+"version" : 1.0,
 "message" : "please update to new version 1.1 - fixed few bugs and introduced new UI for boots productivity",
 "frequency" : 2,
-"freqParam" : "day"
+"freqParam" : "day",
+"feedback" : true,
+"feedbackMessage" : "Happy coding ...you will fix that bug☺️",
+"timeInSec" : 10000,
 }
