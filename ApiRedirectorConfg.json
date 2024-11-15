@@ -4,6 +4,6 @@
 "frequency" : 2,
 "freqParam" : "day",
 "feedback" : true,
-"feedbackMessage" : "Happy coding, you will fix that bug. Meanwhile can you give us some feedback? Click here: <a href='https://www.google.com'>www.google.com</a>",
+"feedbackMessage" : "Happy coding, you will fix that bug. Meanwhile, can you give us some feedback? <a href='https://www.google.com' target='_blank'>Click here</a> for feedback.",
 "timeInSec" : 10000
 }
