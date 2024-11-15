@@ -1,6 +1,6 @@
 { 
 "version" : 1,
-"message" : 2,
+"message" : "please update to new version - fixed few bugs and introduced new UI for boots productivity",
 "frequency" : 2,
 "freqParam" : "day"
 }
