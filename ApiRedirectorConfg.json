@@ -1,8 +1,8 @@
 { 
 "version" : 1.0,
 "message" : "please update to new version 1.1 - fixed few bugs and introduced new UI for boots productivity",
-"frequencyInMin" : 2,
+"frequencyInSec" : 30,
 "feedback" : true,
 "feedbackMessage" : "Happy coding, you will fix that bug. Meanwhile, can you give us some feedback? <a href='https://www.google.com' target='_blank'>Click here</a> for feedback.",
-"timeInSec" : 10000
+"timeInSec" : 5
 }
