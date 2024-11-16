@@ -4,5 +4,6 @@
 "frequencyInSec" : 3,
 "feedback" : true,
 "feedbackMessage" : "Happy coding, you will fix that bug. Meanwhile, can you give us some feedback? <a href='https://www.google.com' target='_blank'>Click here</a> for feedback.",
-"timeInSec" : 5
+"timeInSec" : 5,
+"heightOffset" : null
 }
