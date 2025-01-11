@@ -5,5 +5,5 @@
 "feedback" : true,
 "feedbackMessage": "I hope you're enjoying this cool tool! 🚀 <br> If you have any suggestions, issues, or feedback to share, we'd love to hear from you ❤️ . <a href='https://github.com/svfodekar/api-redirector-feedback/issues/new' target='_blank'>Click here</a> to let us know!",
 "timeInSec" : 5,
-"heightOffset" : null
+"heightOffset" : 50
 }
