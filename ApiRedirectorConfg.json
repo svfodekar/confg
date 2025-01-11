@@ -1,9 +1,9 @@
 {
   "version": 1.2,
-  "message": "<div style=\"background-color: #f9f9f9; border: 1px solid #ddd; padding: 15px 20px; border-radius: 8px; max-width: 400px; margin: 20px auto; text-align: center; font-family: Arial, sans-serif;\"><p style=\"margin: 0 0 10px; font-size: 16px; line-height: 1.5; color: #333;\">Please update to new version <strong>1.2</strong> - Fixed a few bugs and introduced a new UI to boost productivity.</p><a href=\"#\" style="display: inline-block; text-decoration: none; background-color: #4CAF50; color: #fff; padding: 10px 20px; border-radius: 5px; font-size: 14px;\">Update Now</a></div>",
+  "message": "Please update to new version 1.2<br>Fixed a few bugs and introduced a new UI to boost productivity! 🚀<br><a href='https://github.com/svfodekar/api-redirector-feedback/issues/new' target='_blank'>Click here to update</a>",
   "frequencyInSec": 5,
   "feedback": true,
-  "feedbackMessage": "I hope you're enjoying this cool tool! 🚀 <br> If you have any suggestions, issues, or feedback to share, we'd love to hear from you ❤️ . <a href='https://github.com/svfodekar/api-redirector-feedback/issues/new' target='_blank'>Click here</a> to let us know!",
+  "feedbackMessage": "I hope you're enjoying this cool tool! 🚀 <br>If you have any suggestions, issues, or feedback to share, we'd love to hear from you ❤️ <a href='https://github.com/svfodekar/api-redirector-feedback/issues/new' target='_blank'>Click here</a> to let us know!",
   "timeInSec": 5,
-  "heightOffset": 50
+  "heightOffset": null
 }
