@@ -4,6 +4,6 @@
   "frequencyInSec": 5,
   "feedback": true,
   "feedbackMessage": "<strong>Tip: If you've added a new domain, refresh your webApp UI to sync it with the extension.</strong> <br><br> Enjoying the tool? 🚀 We'd love to hear your feedback and suggestions! ❤️ <a href='https://github.com/svfodekar/api-redirector-feedback/issues/new' target='_blank'>Share here</a>!",
-  "timeInSec": 5,
+  "timeInSec": 10,
   "heightOffset": null
 }
