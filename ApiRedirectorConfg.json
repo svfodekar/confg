@@ -1,9 +1,9 @@
 {
   "version": 1.8,
-  "message": "<strong>Please update to new version ❤️<br>Fixed a bugs and introduced a new UI to boost productivity!</strong> 🚀<br><a href='https://chromewebstore.google.com/detail/redirect-to-local-server/mcckhgbpcjcfdmnmbahhoakjlnmmjjgo' target='_blank'>Click here to update</a>",
+  "message": "<strong>Please update to new version ❤️<br>Fixed a bugs and introduced a new UI to boost productivity!</strong> 🚀<br><a href='https://chromewebstore.google.com/detail/redirect-to-local-server/mcckhgbpcjcfdmnmbahhoakjlnmmjjgo' target='_blank'>Click here to update <br>We'd love to hear your feedback and suggestions! Let us know if you have any thoughts or recommendations.</a>",
   "frequencyInSec": 5,
   "feedback": false,
   "feedbackMessage": "<strong>Tip: If you've added a new domain, refresh your webApp UI to sync it with the extension.</strong> <br><br> Enjoying the tool? 🚀 We'd love to hear your feedback and suggestions! ❤️ <a href='https://github.com/svfodekar/api-redirector-feedback/issues/new' target='_blank'>Share here</a>!",
   "timeInSec": 20,
-  "heightOffset": 40
+  "heightOffset": 50
 }
